@@ -59,7 +59,7 @@
     "puppeteer": "^22.9.0",
     "tsx": "^4.10.5",
     "typescript": "^5.4.5",
-    "webpack": "^5.37.0"
+    "webpack": "^5.94.0"
   },
   "preconstruct": {
     "packages": [
