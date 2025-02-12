@@ -14,7 +14,7 @@
     "@vocab-fixtures/translation-types": "workspace:*",
     "@vocab/core": "workspace:*",
     "wait-on": "^7.0.0",
-    "webpack": "^5.37.0",
+    "webpack": "^5.94.0",
     "webpack-dev-server": "^5.0.2"
   }
 }
